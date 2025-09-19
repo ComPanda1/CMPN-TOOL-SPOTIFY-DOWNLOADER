@@ -39,12 +39,6 @@ Spotify Downloader is a powerful and user-friendly tool that allows you to downl
 
 *Note: All dependencies (Python, FFmpeg, spotdl) are installed automatically*
 
-### 🎯 Supported URLs
-
-- ✅ Spotify songs
-- ✅ Spotify playlists
-- ✅ Spotify albums
-- ✅ Spotify artists
 
 ### 📸 Preview
 
