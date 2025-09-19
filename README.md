@@ -105,4 +105,4 @@ Spotify Downloader es una herramienta potente y fácil de usar que te permite de
 
 *Nota: Todas las dependencias (Python, FFmpeg, spotdl) se instalan automáticamente*
 
-**PREVIEW:** 
+**PREVIEW:** https://streamable.com/btnmlo
