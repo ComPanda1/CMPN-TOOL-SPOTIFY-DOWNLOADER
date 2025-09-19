@@ -1,20 +1,4 @@
 # 🎵 Spotify Downloader
-
-<div align="center">
-
-![Spotify Downloader Banner](https://via.placeholder.com/800x200/1DB954/FFFFFF?text=🎵+SPOTIFY+DOWNLOADER)
-
-[![GitHub release](https://img.shields.io/github/release/ComPanda1/spotify-downloader.svg)](https://github.com/ComPanda1/spotify-downloader/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/ComPanda1/spotify-downloader)
-[![Downloads](https://img.shields.io/github/downloads/ComPanda1/spotify-downloader/total.svg)](https://github.com/ComPanda1/spotify-downloader/releases)
-
-**Download your favorite Spotify songs with ease!**
-
-[🇺🇸 English](#english) | [🇪🇸 Español](#español)
-
-</div>
-
 ---
 
 ## 🇺🇸 English
